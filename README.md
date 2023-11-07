@@ -1,7 +1,7 @@
 ![Forks](https://img.shields.io/github/forks/shukkkur/Do-Left-Handed-People-Die-Young.svg)
 ![Stars](https://img.shields.io/github/stars/shukkkur/Do-Left-Handed-People-Die-Young.svg)
 ![Watchers](https://img.shields.io/github/watchers/shukkkur/Do-Left-Handed-People-Die-Young.svg)
-![Last Commit](https://img.shields.io/github/last-commit/shukkkur/Do-Left-Handed-People-Die-Young.svg) 
+![Last Commit](https://img.shields.io/badge/last_commit-7_nov-purple)
 
 <h2 align='center'>Do Left-handed People Really Die Young?</h2>
 
